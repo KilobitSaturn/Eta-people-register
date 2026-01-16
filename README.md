@@ -12,3 +12,13 @@ The program must contain a user menu with options to register users, search for 
 
 Present the program working with a minimum of 25 pre-registered individuals.
 ```
+## Features
+- Affinity elements of choice:
+  1. favorite color;
+  2. favorite flavor;
+  3. religion;
+  4. favorite music genre;
+  5. favorite movie genre;
+  6. favorite literature genre;
+  7. favorite animal;
+  8. favorite style;
